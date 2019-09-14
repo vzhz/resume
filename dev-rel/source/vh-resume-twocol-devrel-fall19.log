@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.4.16)  14 SEP 2019 14:11
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.4.16)  14 SEP 2019 15:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -935,6 +935,18 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
 
 LaTeX Font Warning: Font shape `TU/Lato-Bol(0)/bx/n' undefined
 (Font)              using `TU/Lato-Bol(0)/m/n' instead on input line 235.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 235.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 249.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 261.
+
 
 
 Package hyperref Warning: Suppressing link with empty target on input line 312.
