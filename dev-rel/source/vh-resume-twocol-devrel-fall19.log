@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.4.16)  16 SEP 2019 00:12
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.4.16)  1 OCT 2019 13:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -920,28 +920,28 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
 (Font)              size <5> substituted on input line 77.
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 265.
+Package hyperref Warning: Suppressing link with empty target on input line 266.
 
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 297.
+Package hyperref Warning: Suppressing link with empty target on input line 299.
 
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 297.
+Package hyperref Warning: Suppressing link with empty target on input line 299.
 
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 370.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 353.
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 370.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 353.
  (./vh-resume-twocol-devrel-fall19.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 370.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 370.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 353.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 353.
 Package rerunfilecheck Info: File `vh-resume-twocol-devrel-fall19.out' has not 
 changed.
-(rerunfilecheck)             Checksum: 7DD060AB117ADA5088CA309CE4C18A48.
+(rerunfilecheck)             Checksum: D4B3DDAD47113E4212EAAE7D798914F8.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -950,12 +950,12 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 370.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 353.
  ) 
 Here is how much of TeX's memory you used:
  19396 strings out of 492970
  372268 string characters out of 6133938
- 479068 words of memory out of 5000000
+ 479078 words of memory out of 5000000
  23288 multiletter control sequences out of 15000+600000
  532708 words of font info for 60 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
